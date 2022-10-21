@@ -1,0 +1,10 @@
+tensorflow
+ipykernel 
+notebook 
+matplotlib
+seaborn 
+pandas
+numpy
+scipy
+cufflinks
+
