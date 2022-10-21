@@ -29,6 +29,8 @@ pip install -r requirements_dev.txt
 
 ### Implementation <a name = "implemenation"></a>
 
+[Activation function](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/main/Activation%20function/activation%20functiom.ipynb)
+
 ## Usage <a name = "usage"></a>
 
 Add notes about how to use the system.
