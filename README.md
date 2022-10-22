@@ -30,6 +30,8 @@ pip install -r requirements_dev.txt
 ### Implementation <a name = "implemenation"></a>
 
 [Activation function](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/main/Activation%20function/activation%20functiom.ipynb)
+[Batch_normalisation](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/455aa23957119ecda2ccfc1e6096f804934c7b96/Batch_noramlization/Batch_normalisation.ipynb)
+
 
 ## Usage <a name = "usage"></a>
 
