@@ -31,6 +31,8 @@ pip install -r requirements_dev.txt
 
 [Activation function](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/main/Activation%20function/activation%20functiom.ipynb)
 [Batch_normalisation](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/455aa23957119ecda2ccfc1e6096f804934c7b96/Batch_noramlization/Batch_normalisation.ipynb)
+[momentum optimizer](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/59813470c066193ac3c7e94698630aa1fb21038d/optimizer/momentum_optimizer.ipynb)
+[NAG](https://nbviewer.org/github//pk1308/Activations-Loss---Fast-Optimizers/blob/59813470c066193ac3c7e94698630aa1fb21038d/optimizer/NAG.ipynb)
 
 
 ## Usage <a name = "usage"></a>
