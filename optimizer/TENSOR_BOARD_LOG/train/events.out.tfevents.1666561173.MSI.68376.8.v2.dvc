@@ -1,0 +1,4 @@
+outs:
+- md5: 462c9a37ea61f141378af2a7331fc338
+  size: 77500
+  path: events.out.tfevents.1666561173.MSI.68376.8.v2
