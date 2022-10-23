@@ -4,13 +4,13 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Implemenation](#implemenation)
+- [Implementation](#implementation-a-name--implementationa)
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
-This repro is basic implementation of deep learning optimizer , Activation funtion and loss Function
-Insired by :
+This repro is basic implementation of deep learning optimizer , Activation function and loss Function
+Inspired by :
 [SUNNY BHAVEEN CHANDRAN](https://github.com/c17hawke)
 
 ## Getting Started <a name = "getting_started"></a>
@@ -24,15 +24,16 @@ conda create --prefix ./env python=3.8 -y
 
 
 ```
-pip install -r requirements_dev.txt
+pip install -r requirements.txt
 ```
 
-### Implementation <a name = "implemenation"></a>
+### Implementation <a name = "implementation"></a>
 
 [Activation function](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/main/Activation%20function/activation%20functiom.ipynb)
-[Batch_normalisation](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/455aa23957119ecda2ccfc1e6096f804934c7b96/Batch_noramlization/Batch_normalisation.ipynb)
-[momentum optimizer](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/59813470c066193ac3c7e94698630aa1fb21038d/optimizer/momentum_optimizer.ipynb)
+[Batch_normalization](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/455aa23957119ecda2ccfc1e6096f804934c7b96/Batch_noramlization/Batch_normalisation.ipynb)
+[momentum optimizer](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/9c6389ec79ff96f96ea34a5462275617052ad57c/optimizer/momentum_optimizer.ipynb)
 [NAG](https://nbviewer.org/github//pk1308/Activations-Loss---Fast-Optimizers/blob/59813470c066193ac3c7e94698630aa1fb21038d/optimizer/NAG.ipynb)
+[ADAGRAD](https://nbviewer.org/github/pk1308/Activations-Loss---Fast-Optimizers/blob/main/optimizer/Adagrad.ipynb)
 
 
 ## Usage <a name = "usage"></a>

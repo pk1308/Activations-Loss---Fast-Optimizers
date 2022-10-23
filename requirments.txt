@@ -7,4 +7,6 @@ pandas
 numpy
 scipy
 cufflinks
+dvc 
+dvc-gdrive
 

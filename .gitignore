@@ -26,8 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-Batch_noramlization/my_logs
-optimizer/tensor_board_logs
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
